@@ -30,6 +30,15 @@ I'm a software engineering student with hands-on experience spanning game develo
 | Desktop App Development | Building an in-place, real-time screen translator with PyQT and Python. |
 
 ---
+## 🔗 Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikola-dimitrov-9844b9301/)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)]([https://YOUR_USERNAME.itch.io](https://nikx04.itch.io/))
+[![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge)](mailto:NikolaDimitrov04@protonmail.com ) 
+
+**You can contact me at:** NikolaDimitrov04@protonmail.com 
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -57,10 +66,6 @@ I'm a software engineering student with hands-on experience spanning game develo
 **OS:**  
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
 ---
 
-## 🔗 Links
-- LinkedIn:    [linkedin.com/in/nikola-dimitrov-9844b9301](https://www.linkedin.com/in/nikola-dimitrov-9844b9301/) 
-- Itch.io:     [nikx04.itch.io](https://nikx04.itch.io/)
-- Email:       NikolaDimitrov04@protonmail.com 
+> We're done waiting for Godot.
